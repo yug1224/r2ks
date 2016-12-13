@@ -1,6 +1,8 @@
-# r2ks
+# r2ks [![npm version](https://badge.fury.io/js/r2ks.svg)](https://badge.fury.io/js/r2ks)
 
 generate personal history html
+
+[![NPM](https://nodei.co/npm/r2ks.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/r2ks/)
 
 ## Installation
 
