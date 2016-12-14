@@ -29,5 +29,6 @@ r2ks --history template.json
 
 ## Example output
 ### personal history
-<iframe height='490' scrolling='no' title='履歴書HTML' src='//codepen.io/yug1224/embed/oYaOZa/?height=490&theme-id=dark&default-tab=result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/yug1224/pen/oYaOZa/'>履歴書HTML</a> by Yuji Yamaguchi (<a href='http://codepen.io/yug1224'>@yug1224</a>) on <a href='http://codepen.io'>CodePen</a>.
-</iframe>
+
+![screen capture](https://dl.dropboxusercontent.com/u/3189929/images/github/r2ks/history.png)
+DEMO: https://codepen.io/yug1224/pen/oYaOZa/
