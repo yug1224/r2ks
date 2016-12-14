@@ -1,6 +1,6 @@
 {
   "name": "r2ks",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "generate personal history html",
   "main": "./lib/index.js",
   "bin": {
